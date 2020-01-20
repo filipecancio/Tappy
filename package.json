@@ -1,0 +1,12 @@
+{
+  "name": "tappy",
+  "version": "1.0.0",
+  "description": "Projeto Clasp em Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/filipecancio/tappy.git",
+  "author": "Filipe Câncio <filipe.cancio@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.9"
+  }
+}
