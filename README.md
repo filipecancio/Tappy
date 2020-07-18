@@ -9,3 +9,4 @@
 - Coloque o project key `https://script.google.com/d/1nGMOQla2EvNjhogRBO3MKMGxPTTflEjZC0IVv2tlhSbRJ9cgbpil3dda/edit?usp=sharing` e clique em **Adicionar**.
 - Selecione a versão mais recente e escolha `Tappy` com identificador.
 - Clique em **Salvar**.
+exemplo
