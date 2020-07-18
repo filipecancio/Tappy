@@ -12,5 +12,12 @@
   },
   "dependencies": {
     "@types/google-apps-script": "^1.0.9"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.6.1",
+    "@typescript-eslint/parser": "^3.6.1",
+    "eslint": "^7.4.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-import-resolver-typescript": "^2.0.0"
   }
 }
